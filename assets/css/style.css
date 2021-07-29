@@ -41,3 +41,24 @@ h3 {
   margin-bottom: 20px;
   font-size: 50px;
 }
+
+.mainBox {
+  display: flex;
+  border: 5px solid black;
+}
+
+.proBox {
+  justify-content: space-between;
+  border: 3px solid black;
+  flex: 1 0 100px;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 10px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Neon_Lights_80s_Tron_Scene_Front_Sunset.png/320px-Neon_Lights_80s_Tron_Scene_Front_Sunset.png");
+  background-position: center;
+}
+
+.proBox:hover {
+  border: 5px solid white;
+  flex: 2 0 100px;
+}
