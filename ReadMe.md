@@ -3,7 +3,7 @@
 ## Description
 
 This is a basic portfolio page that i hope to improve on as the bootcamp progresses
-![Image of home page](https://github.com/HavoxPrime/codeRefHW/blob/main/assets/images/horiseon-home-page.png)
+![Image of home page](https://github.com/HavoxPrime/portfolio/blob/main/assets/Images/SM_Portfolio_Picture.pdf)
 
 - The page has a pretty simple nav bar and about me section
 - I don't have any projects for it yet.
