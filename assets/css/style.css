@@ -59,10 +59,16 @@ h3 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Neon_Lights_80s_Tron_Scene_Front_Sunset.png/320px-Neon_Lights_80s_Tron_Scene_Front_Sunset.png");
   background-position: center;
   min-width: 300px;
+  font-weight: bold;
 }
 
 #pro1 {
   background-image: url("https://raw.githubusercontent.com/HavoxPrime/cocktailAndFood/main/Images/Cocktails-and-Food-Homepage.png");
+}
+
+#pro2 {
+  background-image: url("https://raw.githubusercontent.com/HavoxPrime/NFTy/main/public/images/NFTylogo.png");
+  color:black;
 }
 
 .proBox:hover {
