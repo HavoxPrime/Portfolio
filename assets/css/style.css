@@ -68,7 +68,11 @@ h3 {
 
 #pro2 {
   background-image: url("https://raw.githubusercontent.com/HavoxPrime/NFTy/main/public/images/NFTylogo.png");
-  color:black;
+  color: black;
+}
+
+#pro3 {
+  background-image: url("assets\Images\inventory-management-system.png");
 }
 
 .proBox:hover {
