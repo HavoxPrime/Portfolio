@@ -43,6 +43,11 @@ h3 {
   font-size: 25px;
 }
 
+.hiWhite {
+  background-color: white;
+  border: black solid 2px;
+}
+
 .mainBox {
   display: flex;
   border: 5px solid black;
@@ -60,6 +65,7 @@ h3 {
   background-position: center;
   min-width: 300px;
   font-weight: bold;
+  color: black;
 }
 
 #pro1 {
@@ -68,12 +74,10 @@ h3 {
 
 #pro2 {
   background-image: url("https://raw.githubusercontent.com/HavoxPrime/NFTy/main/public/images/NFTylogo.png");
-  color: black;
 }
 
 #pro3 {
   background-image: url("https://raw.githubusercontent.com/HavoxPrime/portfolio/main/assets/Images/inventory-management-system.png");
-  color: black;
 }
 
 .proBox:hover {
