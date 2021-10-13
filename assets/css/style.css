@@ -72,7 +72,8 @@ h3 {
 }
 
 #pro3 {
-  background-image: url("assets\Images\inventory-management-system.png");
+  background-image: url("https://raw.githubusercontent.com/HavoxPrime/portfolio/main/assets/Images/inventory-management-system.png");
+  color: black;
 }
 
 .proBox:hover {
